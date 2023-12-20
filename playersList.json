@@ -1,0 +1,192 @@
+[
+  [
+    {
+      "name": "Harry Brook",
+      "country": "England",
+      "basePrice": 2
+    },
+    {
+      "name": "Travis Head",
+      "country": "Australia",
+      "basePrice": 2
+    },
+    {
+      "name": "Karun Nair",
+      "country": "India",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Manish Pandey",
+      "country": "India",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Rovman Powell",
+      "country": "West Indies",
+      "basePrice": 1
+    },
+    {
+      "name": "Rilee rossouw",
+      "country": "South Africa",
+      "basePrice": 2
+    },
+    {
+      "name": "Steve Smith",
+      "country": "Australia",
+      "basePrice": 2
+    }
+  ],
+  [
+    {
+      "name": "Gerald Coetzee",
+      "country": "South Africa",
+      "basePrice": 2
+    },
+    {
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "basePrice": 2
+    },
+    {
+      "name": "Wanindu hasaranga",
+      "country": "Sri Lanka",
+      "basePrice": 1.5
+    },
+    {
+      "name": "Daryl Mitchell",
+      "country": "New Zealand",
+      "basePrice": 1
+    },
+    {
+      "name": "Azmatullah Omarzai",
+      "country": "Afghanistan",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Harshal Patel",
+      "country": "India",
+      "basePrice": 2
+    },
+    {
+      "name": "Rachin Ravindra",
+      "country": "New Zealand",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Shardul Thakur",
+      "country": "India",
+      "basePrice": 2
+    },
+    {
+      "name": "Chris Woakes",
+      "country": "England",
+      "basePrice": 2
+    }
+  ],
+  [
+    {
+      "name": "K.S. Bharat",
+      "country": "India",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Josh Inglis",
+      "country": "Australia",
+      "basePrice": 2
+    },
+    {
+      "name": "Kusal Mendis",
+      "country": "Sri Lanka",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Philip Salt",
+      "country": "England",
+      "basePrice": 1.5
+    },
+    {
+      "name": "Tristan Stubbs",
+      "country": "South Africa",
+      "basePrice": 0.5
+    }
+  ],
+  [
+    {
+      "name": "Lokie Ferguson",
+      "country": "New Zealand",
+      "basePrice": 2
+    },
+    {
+      "name": "Josh Hazlewood",
+      "country": "Australia",
+      "basePrice": 2
+    },
+    {
+      "name": "Alzarri Joseph",
+      "country": "West Indies",
+      "basePrice": 1
+    },
+    {
+      "name": "Dilshan Madushanka",
+      "country": "Sri Lanka",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Shivam Mavi",
+      "country": "India",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Chetan Sakariya",
+      "country": "India",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "basePrice": 2
+    },
+    {
+      "name": "Jaydev Unadkat",
+      "country": "India",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Umesh Yadav",
+      "country": "India",
+      "basePrice": 2
+    }
+  ],
+  [
+    {
+      "name": "Akeal Hosein",
+      "country": "West Indies",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Mujeeb Rahman",
+      "country": "Afghanistan",
+      "basePrice": 2
+    },
+    {
+      "name": "Adil Rashid",
+      "country": "England",
+      "basePrice": 2
+    },
+    {
+      "name": "Mohammad waqar salamkheil",
+      "country": "Afghanistan",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Tabraiz Shamsi",
+      "country": "South Africa",
+      "basePrice": 0.5
+    },
+    {
+      "name": "Ish Sodhi",
+      "country": "New Zealand",
+      "basePrice": 0.75
+    }
+  ]
+]

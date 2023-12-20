@@ -11,11 +11,19 @@ const getCurrentPlayer = function (filePath, set) {
   writeToFile(filePath, existingPlayers);
   return currentPlayer;
 }
+
+const writeSoldPlayers = function (soldPlayersPath, currentPlayer) {
+  const soldPlayers = readFromFile(soldPlayersPath);
+  soldPlayers.push(currentPlayer);
+  writeToFile(soldPlayersPath, soldPlayers);
+}
 const main = function (args) {
-  const filePath = "./playersList.json"
+  const filePath = "./playersList.json";
+  const soldPlayersPath = "./soldPlayers.json"
   const currentSet = args[args.indexOf('--set') + 1] - 1;
   let result = '';
   result = getCurrentPlayer(filePath, currentSet);
+  writeSoldPlayers(soldPlayersPath, result);
   console.log(result);
 }
 main(process.argv.slice(2))
